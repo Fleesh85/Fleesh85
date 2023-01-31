@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Website develpment and protection via Azure</b>
+- <b>Website development and protection via Azure</b>
   - [Azure Website](https://github.com/fleesh85/azurewebsite)<b>
 - <b>Active Directory VM using PowerShell</b>
   - [Active Directory VM](https://github.com/fleesh85/activedirectory)<b>
