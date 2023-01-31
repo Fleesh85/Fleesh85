@@ -10,6 +10,14 @@
   - [Pihole](https://github.com/fleesh85/pihole)<b>
 - <b>Pentesting CTF</b>
   - [Pentesting reporting](https://github.com/fleesh85/pentesting)
+  
+ <h2>🔭 Certifications:</h2>
+  
+  - ISC2 Certified Cybersecurity professional - Testing scheduled for 2/3/2023
+ 
+  - Google IT support professional - Currently enrolled and in process
+  
+  - CompTIA Security+ - In process
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -25,7 +33,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
