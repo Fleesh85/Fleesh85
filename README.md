@@ -11,7 +11,7 @@
 - <b>Pentesting CTF</b>
   - [Pentesting reporting](https://github.com/fleesh85/pentesting)
   
- <h2>🔭 Certifications:</h2>
+ <h2>🔭 Certificates/Certifications:</h2>
   
   - ISC2 Certified Cybersecurity professional - Testing scheduled for 2/3/2023
  
