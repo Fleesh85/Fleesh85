@@ -13,9 +13,9 @@
   
  <h2>🔭 Certificates/Certifications:</h2>
   
-  - ISC2 Certified Cybersecurity professional - Testing scheduled for 2/3/2023
+  - ISC2 Certified Cybersecurity professional - In process
  
-  - Google IT support professional - Currently enrolled and in process
+  - Google IT support professional - February 2023
   
   - CompTIA Security+ - In process
 
