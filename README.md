@@ -4,7 +4,7 @@
 
 - <b>Website development and protection via Azure</b>
   - [Azure Website](https://github.com/fleesh85/azurewebsite)<b>
-- <b>Active Directory VM using PowerShell and exploiting using Mimikatz</b>
+- <b>Creating Active Directory VM using PowerShell/Exploiting using Mimikatz</b>
   - [Hacking Active Directory VM](https://github.com/fleesh85/activedirectory)<b>
 - <b>RaspberryPi 400</b>
   - [Pihole](https://github.com/fleesh85/pihole)<b>
