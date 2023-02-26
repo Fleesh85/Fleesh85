@@ -18,6 +18,8 @@
   - Google IT support professional - February 2023
   
   - CompTIA Security+ - In process
+  
+  - ASU Cybersecurity Bootcamp - February 2023
 
 
 <h2> 🤳 Connect with me:</h2>
