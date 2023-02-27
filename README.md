@@ -9,7 +9,7 @@
 - <b>Pentesting CTF</b>
   - [Pentesting reporting](https://github.com/Fleesh85/Pentest-CTF)<b>
 - <b>Security Monitoring</b>
-  - [Splunk]()<b>
+  - [Splunk](https://github.com/Fleesh85/Security-Monitoring-using-Splunk)<b>
   
  <h2>🔭 Certificates/Certifications:</h2>
   
