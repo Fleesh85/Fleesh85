@@ -7,7 +7,7 @@
 - <b>Creating Active Directory VM using PowerShell/Exploiting using Mimikatz</b>
   - [Hacking Active Directory VM](https://github.com/Fleesh85/Hacking-an-Active-Directory-VM)<b>
 - <b>Pentesting CTF</b>
-  - [Pentesting reporting](https://github.com/fleesh85/pentesting)
+  - [Pentesting reporting](https://github.com/Fleesh85/Pentest-CTF)<b>
   
  <h2>🔭 Certificates/Certifications:</h2>
   
