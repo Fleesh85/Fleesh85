@@ -15,7 +15,7 @@
   
   - ISC2 Certified Cybersecurity professional - In process
  
-  - Google IT support professional - February 2023
+  - [Google IT support professional](https://www.coursera.org/account/accomplishments/professional-cert/KG77R8RA8C2F) (February 2023)
   
   - CompTIA Security+ - In process
   
