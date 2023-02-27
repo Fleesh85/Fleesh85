@@ -13,7 +13,7 @@
   
  <h2>🔭 Certificates/Certifications:</h2>
   
-  - ISC2 Certified Cybersecurity professional - In process
+  - [ISC2 Certified Cybersecurity professional](https://www.credly.com/badges/c919c460-d00f-4d56-b68e-502739a11419/linked_in_profile) - In process
  
   - [Google IT support professional](https://www.coursera.org/account/accomplishments/professional-cert/KG77R8RA8C2F) (February 2023)
   
