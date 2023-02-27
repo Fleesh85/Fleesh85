@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Website development and protection via Azure</b>
-  - [Azure Website](https://github.com/fleesh85/azurewebsite)<b>
+  - [Azure Website](https://github.com/Fleesh85/Website-development-and-protection-via-Azure)<b>
 - <b>Creating Active Directory VM using PowerShell/Exploiting using Mimikatz</b>
   - [Hacking Active Directory VM](https://github.com/fleesh85/activedirectory)<b>
 - <b>RaspberryPi 400</b>
