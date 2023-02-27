@@ -5,7 +5,7 @@
 - <b>Website development and protection via Azure</b>
   - [Azure Website](https://github.com/Fleesh85/Website-development-and-protection-via-Azure)<b>
 - <b>Creating Active Directory VM using PowerShell/Exploiting using Mimikatz</b>
-  - [Hacking Active Directory VM](https://github.com/fleesh85/activedirectory)<b>
+  - [Hacking Active Directory VM](https://github.com/Fleesh85/Hacking-an-Active-Directory-VM)<b>
 - <b>Pentesting CTF</b>
   - [Pentesting reporting](https://github.com/fleesh85/pentesting)
   
